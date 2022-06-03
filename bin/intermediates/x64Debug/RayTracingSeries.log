@@ -1,0 +1,8 @@
+﻿  RayTracer.cpp
+C:\Users\Elijah Jefferson\source\repos\RayTracingSeries\RayTracingSeries\vec3.h(51,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elijah Jefferson\source\repos\RayTracingSeries\RayTracingSeries\vec3.h(114,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elijah Jefferson\source\repos\RayTracingSeries\RayTracingSeries\hitable_list.h(16,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elijah Jefferson\source\repos\RayTracingSeries\RayTracingSeries\RayTracer.cpp(16,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elijah Jefferson\source\repos\RayTracingSeries\RayTracingSeries\RayTracer.cpp(17,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Elijah Jefferson\source\repos\RayTracingSeries\RayTracingSeries\RayTracer.cpp(17,66): warning C4305: 'argument': truncation from 'double' to 'float'
+  RayTracingSeries.vcxproj -> C:\Users\Elijah Jefferson\source\repos\RayTracingSeries\bin\x64Debug\RayTracingSeries.exe
