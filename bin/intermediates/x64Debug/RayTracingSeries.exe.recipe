@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Elijah Jefferson\source\repos\RayTracingSeries\bin\x64Debug\RayTracingSeries.exe</FullPath>
+      <FullPath>C:\dev\Graphics\Ray_Tracing_In_A_Weekend\bin\x64Debug\RayTracingSeries.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

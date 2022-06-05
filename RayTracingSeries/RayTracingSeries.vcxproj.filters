@@ -39,24 +39,15 @@
     <ClInclude Include="camera.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="random.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="RayTracer.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ray.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="hitable.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="sphere.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="hitable_list.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="camera.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

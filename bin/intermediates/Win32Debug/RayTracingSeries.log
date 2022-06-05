@@ -1,0 +1,14 @@
+﻿  RayTracer.cpp
+C:\dev\Graphics\Ray_Tracing_In_A_Weekend\RayTracingSeries\vec3.h(51,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\Graphics\Ray_Tracing_In_A_Weekend\RayTracingSeries\vec3.h(114,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\Graphics\Ray_Tracing_In_A_Weekend\RayTracingSeries\hitable_list.h(17,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\dev\Graphics\Ray_Tracing_In_A_Weekend\RayTracingSeries\random.h(6,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\dev\Graphics\Ray_Tracing_In_A_Weekend\RayTracingSeries\RayTracer.cpp(12,5): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\Graphics\Ray_Tracing_In_A_Weekend\RayTracingSeries\RayTracer.cpp(24,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\Graphics\Ray_Tracing_In_A_Weekend\RayTracingSeries\RayTracer.cpp(25,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\dev\Graphics\Ray_Tracing_In_A_Weekend\RayTracingSeries\RayTracer.cpp(25,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\Graphics\Ray_Tracing_In_A_Weekend\RayTracingSeries\RayTracer.cpp(40,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\Graphics\Ray_Tracing_In_A_Weekend\RayTracingSeries\RayTracer.cpp(41,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\Graphics\Ray_Tracing_In_A_Weekend\RayTracingSeries\RayTracer.cpp(42,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\dev\Graphics\Ray_Tracing_In_A_Weekend\RayTracingSeries\RayTracer.cpp(43,74): warning C4305: 'argument': truncation from 'double' to 'float'
+  RayTracingSeries.vcxproj -> C:\dev\Graphics\Ray_Tracing_In_A_Weekend\bin\Win32Debug\RayTracingSeries.exe
